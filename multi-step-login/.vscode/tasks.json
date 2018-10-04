@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/api/MultiStepLogin.Api.csproj"
+                "${workspaceFolder}"
             ],
             "problemMatcher": "$msCompile"
         }
